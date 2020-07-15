@@ -1,4 +1,4 @@
-# new goTutor app v2
+# goTutor app v2
 
 #### [front](#front)    
 #### [back](#back)
