@@ -9,7 +9,7 @@ const API = {
     },
     createUser:function(userData){
         return axios.post(`${BASE_URL}/signup`,userData,{withCredentials:true})
-    },
+    }
   
 
 
